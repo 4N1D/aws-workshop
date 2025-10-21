@@ -17,7 +17,7 @@
         <mxCell id="x6y4xXyo5MqlhtqYHnya-72" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=31;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;strokeWidth=3;spacingTop=4;" parent="1" vertex="1">
           <mxGeometry x="414" y="-210" width="1941" height="1200" as="geometry" />
         </mxCell>
-        <mxCell id="x6y4xXyo5MqlhtqYHnya-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;startArrow=classic;startFill=1;" parent="x6y4xXyo5MqlhtqYHnya-72" source="x6y4xXyo5MqlhtqYHnya-158" target="x6y4xXyo5MqlhtqYHnya-120" edge="1">
+        <mxCell id="x6y4xXyo5MqlhtqYHnya-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;startArrow=none;startFill=0;" parent="x6y4xXyo5MqlhtqYHnya-72" source="x6y4xXyo5MqlhtqYHnya-158" target="x6y4xXyo5MqlhtqYHnya-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x6y4xXyo5MqlhtqYHnya-210" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Read/Write Data&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x6y4xXyo5MqlhtqYHnya-195" vertex="1" connectable="0">
