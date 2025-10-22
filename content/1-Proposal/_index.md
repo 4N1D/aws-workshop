@@ -112,6 +112,21 @@ User Prompt + Context → **Bedrock LLM Intent Parsing** → **Structured Query*
 
 ## 6. Budget Estimation
 
+### Cloud Infrastructure Costs
+
+| AWS Service           | Cost/Month (USD) | Description              |
+|-----------------------|------------------|--------------------------|
+| Lambda                | 15               | API + LLM logic          |
+| DynamoDB              | 10               | Cached query store       |
+| S3                    | 5                | Logs, static files       |
+| API Gateway           | 10               | Request routing          |
+| Cognito               | 5                | Auth MAU                 |
+| CloudFront            | 10               | Hosting/CDN              |
+| Bedrock (LLM tokens)  | 15               | Prompt parsing           |
+| Rekognition           | 5                | Batch image moderation   |
+| CloudWatch            | 5                | Error-only logging       |
+| **Total**             | **≈ 80/month**   | **≈ 160/8 weeks**        |
+
 ### Cost Optimization Measures
 - **Free-Tier Utilization**: Leverage AWS free tiers for Lambda, DynamoDB, S3, CloudFront, Rekognition, and Cognito to minimize costs.
 - **Aggressive Caching for Bedrock**: Achieve a 95% cache hit rate to reduce AI token costs from $120 to <$15/month.
@@ -176,7 +191,6 @@ Recommendation: The Recommended Scenario was successfully implemented for the MV
 ---
 
 ### Attachments / References
-- **AWS Pricing Calculator Link**: [TBD]
-- **Architecture Diagram**: [Pending draft]
-- **GitHub Repository**: [Pending setup]
-- **Budget Sheet**: [In progress]
+- [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=12f225883db76aa012f87014f9994e8bcb304430)
+- [GitHub Repository](https://github.com/4N1D/aws-workshop)
+- [Related Documents](https://drive.google.com/drive/folders/1LtBMw0791vFCO5fvBHdWg24JyUWVCEXF?usp=sharing)
