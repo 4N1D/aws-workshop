@@ -31,7 +31,7 @@ We are characterized by our:
 | STT | Full Name | Student ID | Email | Role |
 |-----|-----------|------------|-------|------|
 | 1 | Nguyễn Thế Minh | SE196686 | nguyenminh110505@gmail.com | Full-stack Dev |
-| 2 | Nguyễn Nhật Thông | SE196708 | tydapchai123@gmail.com | Backend Dev |
+| 2 | Nguyễn Nhật Thông | SE196708 | ty3072004@gmail.com | Backend Dev |
 | 3 | Nguyễn Huỳnh Nguyên Phú | SE196595 | phunguyenvscode.py505205@gmail.com | AI Dev |
 | 4 | Ngô Hữu Đạt | SE196287 | datngo2005@gmail.com | AI Dev |
 | 5 | Đỗ Trung Quân | SE196444 | dotrungquannt@gmail.com | AI Dev |
