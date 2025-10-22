@@ -193,4 +193,7 @@ Recommendation: The Recommended Scenario was successfully implemented for the MV
 ### Attachments / References
 - [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=12f225883db76aa012f87014f9994e8bcb304430)
 - [GitHub Repository](https://github.com/4N1D/aws-workshop)
+
+## 9. IMPORTANT: Read the SRS to know more about our project
+- [Software Requirement Specification](https://docs.google.com/document/d/16fEXJeQfbxF26TqigBDaBX5p0O-zkRW-sUpK6K31Ugs/edit?usp=sharing)
 - [Related Documents](https://drive.google.com/drive/folders/1LtBMw0791vFCO5fvBHdWg24JyUWVCEXF?usp=sharing)
