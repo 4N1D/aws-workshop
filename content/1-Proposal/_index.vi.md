@@ -1,5 +1,5 @@
 ---
-title: "Proposal"
+title: "Đề xuất"
 date: 2025-10-22
 weight: 1
 chapter: false
@@ -7,12 +7,12 @@ pre: " <b> 1. </b> "
 ---
 # MAPVIBE
 
-**AI-Powered Map Location Discovery Platform**  
-*(Discover dining and other locations in Ho Chi Minh City using natural-language prompts and contextual insights)*
+**Nền tảng Khám phá Vị trí Bản đồ Powered by AI**  
+*(Khám phá các địa điểm ăn uống và các địa điểm khác tại Thành phố Hồ Chí Minh sử dụng các gợi ý ngôn ngữ tự nhiên và thông tin chi tiết theo ngữ cảnh)*
 
 ---
 
-## 1. Executive Summary
+## 1. Tóm tắt Điều hành
 
 MapVibe is an AI-driven web platform launched in **Ho Chi Minh City** to transform location discovery, enabling users to find venues through natural-language prompts (e.g., “find a luxury rooftop restaurant with city view open until midnight” or “quiet coffee shop near the river with outdoor seating”). The platform harnesses **Amazon Bedrock’s Large Language Models (LLMs)** to interpret user intent, integrating real-time contextual factors like location, time, and preferences, and retrieves data from an internal **DynamoDB database**. Built on a **serverless AWS architecture**, MapVibe delivers **low latency (<10s)**, **high accuracy (≥85% match satisfaction)**, and **cost efficiency (<$200 for initial 8-week development and demo cycle, completed by October 22, 2025)**. Authenticated users enjoy personalized recommendations, the ability to contribute reviews, and access to moderation tools, all enhanced by AI technologies.
 
