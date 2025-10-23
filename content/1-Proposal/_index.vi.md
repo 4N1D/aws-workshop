@@ -46,7 +46,7 @@ MapVibe employs **AWS Bedrock LLMs** to parse natural-language prompts in Vietna
 ### Overview
 
 User Prompt + Context → **Bedrock LLM Intent Parsing** → **Structured Query** → **DynamoDB Search** → **Rank & Cache** → **Web UI Display** → **User Feedback Loop**.  
-![Solution Architecture](/images/architecture.png)
+![Solution Architecture](https://4n1d.github.io/aws-workshop/images/architecture.png)
 
 ### AWS Services Used
 
