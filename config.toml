@@ -1,4 +1,6 @@
+baseURL = "https://4n1d.github.io/aws-workshop/"
 defaultContentLanguage = "en"
+canonifyURLs = false
 [languages]
   [languages.en]
     weight = 1
