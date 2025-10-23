@@ -46,7 +46,7 @@ MapVibe sử dụng **AWS Bedrock LLMs** để phân tích các gợi ý ngôn n
 ### Tổng quan
 
 Gợi ý Người dùng + Ngữ cảnh → **Phân tích Ý định Bedrock LLM** → **Truy vấn có Cấu trúc** → **Tìm kiếm DynamoDB** → **Xếp hạng & Bộ nhớ đệm** → **Hiển thị Web UI** → **Vòng lặp Phản hồi Người dùng**.  
-![Solution Architecture](/images/architecture.png)
+![Solution Architecture](https://4n1d.github.io/aws-workshop/images/architecture.png)
 
 ### Dịch vụ AWS được sử dụng
 

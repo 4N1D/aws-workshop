@@ -1,0 +1,2 @@
+{{ $imagePath := .Get 0 | absURL }}
+<img src="{{ $imagePath }}" alt="{{ with .Get 1 }}{{ . }}{{ end }}" title="{{ with .Get 2 }}{{ . }}{{ end }}" loading="lazy" />
