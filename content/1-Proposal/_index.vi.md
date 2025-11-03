@@ -83,12 +83,12 @@ Gợi ý Người dùng + Ngữ cảnh → **Phân tích Ý định Bedrock LLM*
 
 | Phase | Description                                          | Duration   |
 |-------|------------------------------------------------------|------------|
-| 1     | Xác định kiến trúc, schema gợi ý Bedrock và schema DynamoDB | Đã hoàn thành (2 tuần) |
-| 2     | Ước tính chi phí và tối ưu hóa chiến lược bộ nhớ đệm  | Đã hoàn thành (1 tuần) |
-| 3     | Xây dựng backend (Lambda, DynamoDB, Bedrock, Rekognition)| Đã hoàn thành (3 tuần) |
-| 4     | Phát triển frontend (Next.js, song ngữ, UI responsive)  | Đã hoàn thành (3 tuần) |
-| 5     | Kiểm tra và tối ưu hóa cho độ trễ <10s và khả năng mở rộng | Đã hoàn thành (2 tuần) |
-| 6     | Ra mắt MVP, triển khai qua CI/CD, thu thập phản hồi    | Đang tiến hành (bắt đầu ngày 22 tháng 10 năm 2025) |
+| 1     | Xác định kiến trúc, schema gợi ý Bedrock và schema DynamoDB | 2 tuần |
+| 2     | Ước tính chi phí và tối ưu hóa chiến lược bộ nhớ đệm  | 1 tuần |
+| 3     | Xây dựng backend (Lambda, DynamoDB, Bedrock, Rekognition)| 3 tuần |
+| 4     | Phát triển frontend (Next.js, song ngữ, UI responsive)  | 3 tuần |
+| 5     | Kiểm tra và tối ưu hóa cho độ trễ <10s và khả năng mở rộng | 2 tuần |
+| 6     | Ra mắt MVP, triển khai qua CI/CD, thu thập phản hồi    | 2 tuần |
 
 ### Yêu cầu Kỹ thuật
 
@@ -102,11 +102,11 @@ Gợi ý Người dùng + Ngữ cảnh → **Phân tích Ý định Bedrock LLM*
 
 | Period              | Activities                                                  |
 |---------------------|-------------------------------------------------------------|
-| Trước khi Phát triển (Tháng 0) | Nghiên cứu các bộ dữ liệu địa điểm tại Thành phố Hồ Chí Minh cho DynamoDB |
-| Tháng 1 (Tháng 9 năm 2025) | Xây dựng backend MVP với Bedrock LLM và DynamoDB            |
-| Tháng 2 (Tháng 10 năm 2025)  | Triển khai bộ nhớ đệm, phát triển tích hợp frontend            |
-| Tháng 3 (Tháng 10 năm 2025)  | Ra mắt beta công khai, tối ưu hóa hiệu suất, thu thập phản hồi  |
-| Sau khi Ra mắt (Tháng 10 năm 2025 trở đi) | Thêm các tính năng nâng cao (ví dụ: xếp hạng dựa trên ML, chế độ ngoại tuyến)|
+| Trước khi Phát triển (Tháng 0 - 9/2025) | Nghiên cứu các bộ dữ liệu địa điểm tại Thành phố Hồ Chí Minh cho DynamoDB |
+| Tháng 1 (10/2025) | Xây dựng backend MVP với Bedrock LLM và DynamoDB            |
+| Tháng 2 (11/2025)  | Triển khai bộ nhớ đệm, phát triển tích hợp frontend            |
+| Tháng 3 (11/2025)  | Ra mắt beta công khai, tối ưu hóa hiệu suất, thu thập phản hồi  |
+| Sau khi Ra mắt (12/2025) | Thêm các tính năng nâng cao (ví dụ: xếp hạng dựa trên ML, chế độ ngoại tuyến)|
 
 ---
 
