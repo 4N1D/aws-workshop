@@ -83,12 +83,12 @@ User Prompt + Context → **Bedrock LLM Intent Parsing** → **Structured Query*
 
 | Phase | Description                                          | Duration   |
 |-------|------------------------------------------------------|------------|
-| 1     | Define architecture, Bedrock prompt schema, and DynamoDB schema | Completed (2 weeks) |
-| 2     | Estimate costs and optimize caching strategy          | Completed (1 week) |
-| 3     | Build backend (Lambda, DynamoDB, Bedrock, Rekognition)| Completed (3 weeks) |
-| 4     | Develop frontend (Next.js, bilingual, responsive UI)  | Completed (3 weeks) |
-| 5     | Test and optimize for <10s latency and scalability    | Completed (2 weeks) |
-| 6     | Launch MVP, deploy via CI/CD, collect feedback        | Ongoing (started October 22, 2025) |
+| 1     | Define architecture, Bedrock prompt schema, and DynamoDB schema | 2 weeks |
+| 2     | Estimate costs and optimize caching strategy          | 1 week |
+| 3     | Build backend (Lambda, DynamoDB, Bedrock, Rekognition)| 3 weeks |
+| 4     | Develop frontend (Next.js, bilingual, responsive UI)  | 3 weeks |
+| 5     | Test and optimize for <10s latency and scalability    | 2 weeks |
+| 6     | Launch MVP, deploy via CI/CD, collect feedback        | 2 weeks |
 
 ### Technical Requirements
 
@@ -102,11 +102,11 @@ User Prompt + Context → **Bedrock LLM Intent Parsing** → **Structured Query*
 
 | Period              | Activities                                                  |
 |---------------------|-------------------------------------------------------------|
-| Pre-Development (Month 0) | Research Ho Chi Minh City venue datasets for DynamoDB       |
-| Month 1 (Sept 2025) | Build backend MVP with Bedrock LLM and DynamoDB            |
-| Month 2 (Oct 2025)  | Implement caching, develop frontend integration            |
-| Month 3 (Oct 2025)  | Launch public beta, optimize performance, collect feedback  |
-| Post-Launch (Oct 2025 onward) | Add advanced features (e.g., ML-based ranking, offline mode)|
+| Pre-Development (Month 0 - Sept 2025) | Research Ho Chi Minh City venue datasets for DynamoDB       |
+| Month 1 (Oct 2025) | Build backend MVP with Bedrock LLM and DynamoDB            |
+| Month 2 (Nov 2025)  | Implement caching, develop frontend integration            |
+| Month 3 (Nov 2025)  | Launch public beta, optimize performance, collect feedback  |
+| Post-Launch (Dec 2025) | Add advanced features (e.g., ML-based ranking, offline mode)|
 
 ---
 
